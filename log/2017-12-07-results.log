@@ -1,0 +1,10 @@
+{"level":"verbose","message":"Verbose info","timestamp":"13:09:55"}
+{"level":"info","message":"Hello world","timestamp":"13:09:55"}
+{"level":"warn","message":"Warning message","timestamp":"13:09:55"}
+{"level":"error","message":"Error info","timestamp":"13:09:55"}
+{"level":"info","message":"Success Message and variables: I am happy","timestamp":"14:30:12"}
+{"level":"error","message":"Error Message : Error is here","timestamp":"14:30:12"}
+{"level":"verbose","message":"Verbose info","timestamp":"14:30:12"}
+{"level":"info","message":"Hello world","timestamp":"14:30:12"}
+{"level":"warn","message":"Warning message","timestamp":"14:30:12"}
+{"level":"error","message":"Error info","timestamp":"14:30:12"}
